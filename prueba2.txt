@@ -1,2 +1,0 @@
-Este es otro archivo de prueba del proyecto.
-Nueva línea para midificar el archivo de prueba.
