@@ -1,1 +1,4 @@
 Texto de prueba.
+Ampliación de texto para pruebas en los archivos nuevos.
+Aprendiendo acerca de Git con Nicolás de Chile.
+Creación de ramas con la instrucción git checkout -b feature/nombre
